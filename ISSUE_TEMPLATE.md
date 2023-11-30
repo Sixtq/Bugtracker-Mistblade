@@ -6,8 +6,10 @@
 [//]: # ([Spell][Mage] Fireball)
 [//]: # ([Npc][Drop] Ghostclaw Lynx)
 
-**Description**: 
+**Description**: Pet Slots Bug
 
-**Current behaviour**:
+**Current behaviour**:![Screenshot 2023-11-30 202041](https://github.com/Stormforge-gg/Bugtracker-Mistblade/assets/152529712/d88afa81-be69-4fbb-b189-2456c0770e98)
+![Screenshot 2023-11-30 202106](https://github.com/Stormforge-gg/Bugtracker-Mistblade/assets/152529712/e0897641-5488-4827-8589-ab231e4d71d2)
+
 
 **Expected behaviour**: 
